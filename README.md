@@ -1,3 +1,7 @@
+> [!WARNING]
+> Archiving this project. This is the only TypeScript/JavaScript project I have, and the number of vulnerability fixes Dependabot keeps opening is becoming annoying. It started as a personal project for healthy practice, but the maintenance overhead is becoming unhealthy.
+
+
 <h1 align="center">YouTube Clone Project 🎥</h1>
 
 <p align="center">
